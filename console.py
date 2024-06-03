@@ -212,14 +212,14 @@ class HBNBCommand(cmd.Cmd):
 
 
 if __name__ == '__main__':
-HBNBCommand().cmdloop()
-B
-A
-A
-A
-A
-A
-A
-A
-A
+    HBNBCommand().cmdloop()
+    B
+    A
+    A
+    A
+    A
+    A
+    A
+    A
+    A
     HBNBCommand().cmdloop()
